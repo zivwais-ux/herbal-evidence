@@ -30,4 +30,4 @@ Details and setup steps: see `docs/deployment.md`. Development status per phase 
 
 ## Status
 
-Phase 0 (foundation) — in progress. Dev Supabase project created (`herbal-evidence-dev`, see `docs/deployment.md`). See `docs/decisions.md` for engineering choices.
+Phase 0 (foundation) — done. Phase 1 (database) — schema, RLS, job queue, and mock seed in place; see `docs/data-model.md`. Dev Supabase project created (`herbal-evidence-dev`, see `docs/deployment.md`). See `docs/decisions.md` for engineering choices.
