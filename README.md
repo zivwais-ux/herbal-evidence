@@ -30,4 +30,4 @@ Details and setup steps: see `docs/deployment.md`. Development status per phase 
 
 ## Status
 
-Phase 0 (foundation) — in progress. See `docs/decisions.md` for engineering choices.
+Phase 0 (foundation) — in progress. Dev Supabase project created (`herbal-evidence-dev`, see `docs/deployment.md`). See `docs/decisions.md` for engineering choices.
